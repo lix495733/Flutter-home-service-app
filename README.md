@@ -23,8 +23,6 @@ Assets
 Clone the repository and run the following commands:
 ```
 flutter pub get
-flutter run
-```
 
 ## Screenshots
 ### Select Service Page
